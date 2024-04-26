@@ -1,6 +1,11 @@
-sch: https://www.google.com/search?q=composition+based+object+oriented
+sch:
+- https://www.google.com/search?q=composition+based+object+oriented
+- https://www.google.com/search?q=composition+vs+inheritance
 
-Guide:
+# Wiki:
+https://en.wikipedia.org/wiki/Composition_over_inheritance
 
 # Comparison:
 - https://www.digitalocean.com/community/tutorials/composition-vs-inheritance
+
+# Guide:
