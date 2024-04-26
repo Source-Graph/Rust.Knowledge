@@ -1,4 +1,7 @@
+# Composition over inheritance
+
 sch:
+- https://www.google.com/search?q=composition+over+inheritance
 - https://www.google.com/search?q=composition+based+object+oriented
 - https://www.google.com/search?q=composition+vs+inheritance
 
