@@ -1,12 +1,14 @@
-install:
+Home: https://github.com/regexident/cargo-modules#usage
+
+# install:
 ```
 cargo install cargo-modules
 ```
 
-usage:
+# usage:
 ```
-cargo modules generate tree
+cargo-modules structure
 
 # with type
-cargo modules generate tree --with-types
+cargo-modules structure --cfg-test
 ```
